@@ -1,11 +1,11 @@
 
 # AnimeGAN.js
 
-**AnimeGAN.js is now hosted on [https://animegan.js.org/](https://animegan.js.org/) 🥳**
+**AnimeGAN.js is now hosted on [https://idrissa-gif.github.io/Real_ImageToCartoon_Image_GAN//](https://idrissa-gif.github.io/Real_ImageToCartoon_Image_GAN//) 🥳**
 
 If you are in an area that does not provide reliable connection to Github Pages, you can try [this link](https://longlian.gitee.io/) hosted on Gitee instead.
 
-This project allows online photo animation. [Click here to have a try.](https://animegan.js.org)
+This project allows online photo animation. [Click here to have a try.](https://idrissa-gif.github.io/Real_ImageToCartoon_Image_GAN/)
 
 I suggest you use a device with WebGL support. See your device's support of Tensorflow.js [here](https://js.tensorflow.org/debug/).
 
