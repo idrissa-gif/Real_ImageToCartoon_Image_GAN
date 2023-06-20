@@ -15,7 +15,7 @@ Behind the scene, this project runs [AnimeGAN](https://github.com/TachibanaYoshi
 
 Original Image             |  Converted Image
 :-------------------------:|:-------------------------:
-![Original Image](https://raw.githubusercontent.com/TonyLianLong/AnimeGAN.js/master/assets/original.png) | ![Converted Image](https://raw.githubusercontent.com/TonyLianLong/AnimeGAN.js/master/assets/converted.png)
+![Original Image](https://github.com/idrissa-gif/Real_ImageToCartoon_Image_GAN/blob/main/assets/original.png) | ![Converted Image](https://github.com/idrissa-gif/Real_ImageToCartoon_Image_GAN/blob/main/assets/converted.png)
 
 
 
